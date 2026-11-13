@@ -15,3 +15,5 @@ Senior Principal Software Engineer at Red Hat, on the Open Accelerator Team. I b
 - **Embedded and FPGA:** ESP32, STM32 and RISC-V soft cores. [esp32-gdb-mqtt](https://github.com/EldritchJS/esp32-gdb-mqtt) is a wireless GDB server over MQTT.
 
 **Tools:** OpenShift, Kubernetes, Helm, Argo CD, Advanced Cluster Management, Compliance Operator, ACS, KubeVirt, Python, Go, C.
+
+[LinkedIn](https://www.linkedin.com/in/jasonschlessman/)
